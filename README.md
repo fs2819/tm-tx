@@ -1,2 +1,4 @@
 # tm-tx
-tokamaker torax coupling=
+TokaMaker = tm
+TORAX = tx
+
